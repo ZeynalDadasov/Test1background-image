@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.head {
+    display: flex;
+    
+   
+    height: 960px;
+    width: 100%;
+    background-image: url("./image/santiago.jpg");
+    background-size: cover  ;
+   
+}
+
+.body {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 6%;
+    width: 50%;
+}
+
+.div-1 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 6%;
+    width: 50%;
+}
+
+.h-1 {
+    color: rgb(116, 158, 53);
+    margin-right: 3%;
+}
+
+.h-2 {
+    color: rgb(0, 0, 0);
+    margin-right: 3%;
+}
+
+.h-3 {
+    color: rgb(0, 0, 0);
+    margin-right: 3%;
+}
+
+.h-4 {
+    color:  rgb(0, 0, 0);
+    margin-right: 3%;
+}
+
+.h-5 {
+    color: rgb(0, 0, 0);
+    margin-right: 3%;
+}
+.but{
+    background-color: rgb(116, 158, 53);
+    color: white;
+    margin-right: 3%;   
+    width: 140%;
+    height: 70%;
+}
+.neos{
+    color: black    ;
+       
+}
+  .h-6{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 20%;
+  }
